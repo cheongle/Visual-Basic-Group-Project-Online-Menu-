@@ -1,0 +1,20 @@
+Name: john
+Phone No: 01234567
+Email: selangor
+AddressLine: lim@gmail.com
+City: jalan6
+State: asd
+Postcode: 45677
+PaymentMethod: E-wallet
+
+Name: john
+Phone No: 01234567
+Email: selangor
+AddressLine: lim@gmail.com
+City: jalan6
+State: asd
+Postcode: 45677
+Card Number: 12343546235
+Card Holder Name: john
+PaymentMethod: Card
+
